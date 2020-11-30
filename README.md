@@ -1,4 +1,4 @@
-# JavaScriptGyaani
+# Do You Know JS?
 
 A CLI based quiz app filled with questions to check your JS knowledge
 Answer these questions to check how better you know JS.
